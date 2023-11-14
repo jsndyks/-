@@ -6,6 +6,8 @@ ul {
 }
 li {padding-top:0.25em;padding-bottom:0.25em;}
 .oneCol {padding-left:15%;padding-right:15%;}
+.crash {font-weight:bold; font-size:100%}
+.crash .caps {font-weight:bold; font-size:90%; font-variant-caps: all-caps}
     </style>
 
 <div class="oneCol" width="67%" markdown="1">
@@ -14,16 +16,15 @@ li {padding-top:0.25em;padding-bottom:0.25em;}
 
 When I was thinking about what has happened to me over the last few months, the term ‘**Life Crash**’ seemed to describe it pretty well.
 
-I Googled it, and not much came up, other than [a wonderful  sequence of drawings](https://www.instagram.com/p/Ceq4sHqOAvQ/?img_index=1) by [Henry Jones](https://henryjonesstudio.com/) that depicts [an incident caught on video](https://www.instagram.com/p/Ceq4sHqOAvQ/?img_index=4) outside the [MACBA in Barcelona](https://www.macba.cat/en). &laquo;CRASH!&raquo;.<br/>I like the _sigh_ on the video too.
-
+I Googled it, and not much came up, other than [a wonderful  sequence of drawings](https://www.instagram.com/p/Ceq4sHqOAvQ/?img_index=1) by [Henry Jones](https://henryjonesstudio.com/) that depicts [an incident caught on video](https://www.instagram.com/p/Ceq4sHqOAvQ/?img_index=4) outside the [MACBA in Barcelona](https://www.macba.cat/en). <span class="crash">&laquo;<span class="caps">CRASH!</span>&raquo;</span>.<br/>I like the _sigh_ on the video too.
 
 <div class="topTitle" width="80%">
 <a href="./img/henryJones.2000.png"><img src="./img/henryJones.2000.png" style="border:none"/></a>
 </div>
 
-The sequences of sketches depicting &laquo;CRASH!&raquo; is part of a ‘_[MACBA Life](https://macbalife.com/)_’ collection that observes the everyday happening around the Barcelona Museum of Contemporary Art. That’s how _Life_ and _Crash_ find themselves together in a Google search. The term seemed to describe how I felt very effectively, but the incident and the way Henry Jones captured the &laquo;CRASH!&raquo; resonated very strongly with me. Yep, that was me.
+The sequences of sketches depicting the <span class="crash">&laquo;<span class="caps">CRASH!</span>&raquo;</span> is part of a ‘_[MACBA Life](https://macbalife.com/)_’ collection that observes the everyday happening around the Barcelona Museum of Contemporary Art. That’s how _Life_ and _Crash_ find themselves together in a Google search. The term seemed to describe how I felt very effectively, but the incident and the way Henry Jones captured the <span class="crash">&laquo;<span class="caps">CRASH!</span>&raquo;</span> resonated very strongly with me. Yep, that was me.
 
-Somehow the cartoon captures how I feel: joyful, painful, funny, surprising, uncertain, everyday, extraordinary. There I was, cruising along, decent pace, smooth surface, enjoying life without too much friction, pulling a few tricks, not working too hard but still surprising a few people(myself mainly), loving the view (the family, the bike, the kayak, even the cats) and the feeling of the breeze rushing by, good balance - slight adjustments, and thinking I knew how to ride this thing pretty well when … &laquo;CRASH!&raquo;. I’m on my back, looking at the skies, seeing stars and wondering whether or not I can pick myself up and keep going. My head hurts. Everything hurts. Everything has stopped. What the hell was that? What was I doing?
+Somehow the cartoon captures how I feel: joyful, painful, funny, surprising, uncertain, everyday, extraordinary. There I was, cruising along, decent pace, smooth surface, enjoying life without too much friction, pulling a few tricks, not working too hard but still surprising a few people(myself mainly), loving the view (the family, the bike, the kayak, even the cats) and the feeling of the breeze rushing by, good balance - slight adjustments, and thinking I knew how to ride this thing pretty well when … <span class="crash">&laquo;<span class="caps">CRASH!</span>&raquo;</span>. I’m on my back, looking at the skies, seeing stars and wondering whether or not I can pick myself up and keep going. My head hurts. Everything hurts. Everything has stopped. What the hell was that? What was I doing?
 
 My sturdily foundationed litter bin is skin cancer. Early in the summer I noticed a mole on the back of my leg that I didn’t remember seeing before. My kayaking and swimming and cycling and beach pilgrimages were interrupted by various checks, photos, consultations and ultimately minor surgery. I got a call from the Dermatology unit while I was paddling on the River Fowey and had one final swim before being called home early and dragging the family back to Leicester. I sort-of knew where I was.
 
