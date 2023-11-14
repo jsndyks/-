@@ -8,6 +8,7 @@
   .oneCol {padding-left:15%;padding-right:15%; font-size:95%; letter-spacing: +0.25px; line-height:1.65 }
   .crash {font-weight:bold; font-size:100%}
   .crash .caps {font-weight:bold; font-size:90%; font-variant-caps: all-caps}
+  .indent {font-style:normal}
 </style>
 
 <div class="oneCol" width="67%" markdown="1">
@@ -25,7 +26,7 @@ I _Googled_ it, to see whether anybody else had ever had one, and not much came 
 The sequences of sketches capturing the <span class="crash">&laquo;<span class="caps">CRASH</span>&raquo;</span> is part of a collection that observes the everyday as it happens around the _[MACBA](https://www.macba.cat/en)_. That’s how _Life_ and _Crash_ find themselves together in a _Google_ search - unusually as it turns out - and how I found the imagery that I am clinging onto. The term seemed to describe how I felt very effectively, but the incident and the way [Henry Jones](https://henryjonesstudio.com/) captured the <span class="crash">&laquo;<span class="caps">CRASH</span>&raquo;</span> so tellingly, resonated particularly strongly with me.<br/>Yep, that was me. I knew how that felt.
 
 Somehow the cartoon captures how I feel. It is _joyful_, _painful_, _funny_, _concerning_, _surprising_, _uncertain_, _everyday_, _extraordinary_, _unfinished_. There I was, cruising along, decent pace, smooth surface, enjoying life without too much friction, pulling a few tricks, not working too hard but still surprising a few people (myself mainly). I was loving the view (the family, the bike, the kayak, even the cats) and the feeling of the breeze rushing by, good balance - slight adjustments en route, and thinking I knew how to ride this thing pretty well when …<br/><span class="crash">&laquo;<span class="caps">CRASH</span>&raquo;</span>.
-<br/><span style="padding-left:0em">I’m on my back, looking at the skies, seeing stars and wondering whether or not I can pick myself up and keep going.</span><span style="padding-left:2em">My head hurts.</span><span style="padding-left:4em">Everything hurts.</span><span style="padding-left:6em">Everything has stopped.</span><span style="padding-left:8em">What the hell was that?</span><span style="padding-left:10em">What was I doing?</span>
+<br/><em class="indent" style="padding-left:0em">I’m on my back, looking at the skies, seeing stars and wondering whether or not I can pick myself up and keep going.</em><br/><em class="indent" style="padding-left:2em">My head hurts.</em><br/><em class="indent" style="padding-left:4em">Everything hurts.</em><br/><em class="indent" style="padding-left:6em">Everything has stopped.</em><br/><em class="indent" style="padding-left:8em">What the hell was that?</em><br/><em class="indent" style="padding-left:10em">What was I doing?</em>
 
 I like the _sigh_, the sharp intake of breath, that you can hear on [the video](https://www.instagram.com/p/Ceq4sHqOAvQ/?img_index=4) too.
 
