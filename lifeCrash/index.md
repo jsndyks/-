@@ -6,7 +6,7 @@ I Googled it, and not much came up, other than [a wonderful  sequence of drawing
 
 
 <div class="topTitle" width="80%">
-<a href="./img/henryJones.2000.png"><img src="./img/henryJones.2000.png" style="border:none"/>
+<a href="./img/henryJones.2000.png"><img src="./img/henryJones.2000.png" style="border:none"/></a>
 </div>
 
 The sequences of sketches depicting CRASH! is part of a ‘_[MACBA Life](https://macbalife.com/)_’ collection that observes the everyday happening around the Barcelona Museum of Contemporary Art. That’s how _Life_ and _Crash_ find themselves together in a Google search. The term seemed to describe how I felt very effectively, but the incident and the way Henry Jones captured the crash resonated very strongly with me. 
