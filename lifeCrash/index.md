@@ -5,7 +5,7 @@
 <style>
   ul {list-style-type: "» "; margin-left:-1em}
   li {padding-top:0.25em;padding-bottom:0.25em;}
-  .oneCol {padding-left:15%;padding-right:15%; font-size:90%}
+  .oneCol {padding-left:15%;padding-right:15%; font-size:95%}
   .crash {font-weight:bold; font-size:100%}
   .crash .caps {font-weight:bold; font-size:90%; font-variant-caps: all-caps}
 </style>
