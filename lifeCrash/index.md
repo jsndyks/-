@@ -22,7 +22,7 @@ I Googled it, and not much came up, other than [a wonderful  sequence of drawing
 <a href="./img/henryJones.2000.png"><img src="./img/henryJones.2000.png" style="border:none"/></a>
 </div>
 
-The sequences of sketches depicting the <span class="crash">&laquo;<span class="caps">CRASH!</span>&raquo;</span> is part of a ‘_[MACBA Life](https://macbalife.com/)_’ collection that observes the everyday happening around the Barcelona Museum of Contemporary Art. That’s how _Life_ and _Crash_ find themselves together in a Google search. The term seemed to describe how I felt very effectively, but the incident and the way Henry Jones captured the <span class="crash">&laquo;<span class="caps">CRASH!</span>&raquo;</span> resonated very strongly with me. Yep, that was me. I knew how that felt.
+The sequences of sketches depicting the <span class="crash">&laquo;<span class="caps">CRASH!</span>&raquo;</span> is part of a ‘_[MACBA Life](https://macbalife.com/)_’ collection that observes the everyday happening around the Barcelona Museum of Contemporary Art. That’s how _Life_ and _Crash_ find themselves together in a Google search. The term seemed to describe how I felt very effectively, but the incident and the way [Henry Jones](https://henryjonesstudio.com/) captured the <span class="crash">&laquo;<span class="caps">CRASH!</span>&raquo;</span> resonated very strongly with me. Yep, that was me. I knew how that felt.
 
 Somehow the cartoon captures how I feel: joyful, painful, funny, surprising, uncertain, everyday, extraordinary. There I was, cruising along, decent pace, smooth surface, enjoying life without too much friction, pulling a few tricks, not working too hard but still surprising a few people(myself mainly), loving the view (the family, the bike, the kayak, even the cats) and the feeling of the breeze rushing by, good balance - slight adjustments, and thinking I knew how to ride this thing pretty well when … <span class="crash">&laquo;<span class="caps">CRASH!</span>&raquo;</span>. I’m on my back, looking at the skies, seeing stars and wondering whether or not I can pick myself up and keep going. My head hurts. Everything hurts. Everything has stopped. What the hell was that? What was I doing?
 
@@ -46,7 +46,7 @@ Also, it helps me focus on some of the positives. There are some really good pot
 
 So, there you go - my framing. I’ve had a lot of fun in life - no complaints. We all die sometime, and occasionally it’s good to have a long hard think about this and what it means. This **Life Crash** has helped with that. I have gone deeper than ever before. It is a threat, and it hurts, but I am trying to get back on my feet and dust myself down … with a bit less skin on my leg, a few scars to show, a lot of amazing help (thanks everyone), and a bit more experience of ageing, mortality, and what all of this means for now and the future. For me sure, but for _Alma_, _Brook_, _Fred_ and _Nell_, and for _Emma_, for whom this is a right pain.
 
-I am pleased that I have managed to buy some _Grip Tape_ with Henry Jones' cartoon on ... and am trying to find the deck.<br/>
+I am pleased that I have managed to buy some _Grip Tape_ with [Henry Jones](https://www.juxtapoz.com/news/magazine/stay-loose-a-six-pack-with-henry-jones/)' cartoon on ... and am trying to find the deck.<br/>
 Love, laughter, pain and purchases, right?!
 
 <div class="jdSig" markdown="1">
