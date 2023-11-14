@@ -1,0 +1,321 @@
+<!DOCTYPE html><html><head>
+      <title>index</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      
+      <link rel="stylesheet" href="file:////Users/jsndyks/.vscode/extensions/gicentre.markdown-preview-enhanced-with-litvis-0.31.0/node_modules/mume-with-litvis/dependencies/katex/katex.min.css">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <style>
+      /**
+ * prism.js Github theme based on GitHub's theme.
+ * @author Sam Clarke
+ */
+code[class*="language-"],
+pre[class*="language-"] {
+  color: #333;
+  background: none;
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  text-align: left;
+  white-space: pre;
+  word-spacing: normal;
+  word-break: normal;
+  word-wrap: normal;
+  line-height: 1.4;
+
+  -moz-tab-size: 8;
+  -o-tab-size: 8;
+  tab-size: 8;
+
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+  padding: .8em;
+  overflow: auto;
+  /* border: 1px solid #ddd; */
+  border-radius: 3px;
+  /* background: #fff; */
+  background: #f5f5f5;
+}
+
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+  padding: .1em;
+  border-radius: .3em;
+  white-space: normal;
+  background: #f5f5f5;
+}
+
+.token.comment,
+.token.blockquote {
+  color: #969896;
+}
+
+.token.cdata {
+  color: #183691;
+}
+
+.token.doctype,
+.token.punctuation,
+.token.variable,
+.token.macro.property {
+  color: #333;
+}
+
+.token.operator,
+.token.important,
+.token.keyword,
+.token.rule,
+.token.builtin {
+  color: #a71d5d;
+}
+
+.token.string,
+.token.url,
+.token.regex,
+.token.attr-value {
+  color: #183691;
+}
+
+.token.property,
+.token.number,
+.token.boolean,
+.token.entity,
+.token.atrule,
+.token.constant,
+.token.symbol,
+.token.command,
+.token.code {
+  color: #0086b3;
+}
+
+.token.tag,
+.token.selector,
+.token.prolog {
+  color: #63a35c;
+}
+
+.token.function,
+.token.namespace,
+.token.pseudo-element,
+.token.class,
+.token.class-name,
+.token.pseudo-class,
+.token.id,
+.token.url-reference .token.variable,
+.token.attr-name {
+  color: #795da3;
+}
+
+.token.entity {
+  cursor: help;
+}
+
+.token.title,
+.token.title .token.punctuation {
+  font-weight: bold;
+  color: #1d3e81;
+}
+
+.token.list {
+  color: #ed6a43;
+}
+
+.token.inserted {
+  background-color: #eaffea;
+  color: #55a532;
+}
+
+.token.deleted {
+  background-color: #ffecec;
+  color: #bd2c00;
+}
+
+.token.bold {
+  font-weight: bold;
+}
+
+.token.italic {
+  font-style: italic;
+}
+
+
+/* JSON */
+.language-json .token.property {
+  color: #183691;
+}
+
+.language-markup .token.tag .token.punctuation {
+  color: #333;
+}
+
+/* CSS */
+code.language-css,
+.language-css .token.function {
+  color: #0086b3;
+}
+
+/* YAML */
+.language-yaml .token.atrule {
+  color: #63a35c;
+}
+
+code.language-yaml {
+  color: #183691;
+}
+
+/* Ruby */
+.language-ruby .token.function {
+  color: #333;
+}
+
+/* Markdown */
+.language-markdown .token.url {
+  color: #795da3;
+}
+
+/* Makefile */
+.language-makefile .token.symbol {
+  color: #795da3;
+}
+
+.language-makefile .token.variable {
+  color: #183691;
+}
+
+.language-makefile .token.builtin {
+  color: #0086b3;
+}
+
+/* Bash */
+.language-bash .token.keyword {
+  color: #0086b3;
+}
+
+/* highlight */
+pre[data-line] {
+  position: relative;
+  padding: 1em 0 1em 3em;
+}
+pre[data-line] .line-highlight-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+  display: block;
+  width: 100%;
+}
+
+pre[data-line] .line-highlight {
+  position: absolute;
+  left: 0;
+  right: 0;
+  padding: inherit 0;
+  margin-top: 1em;
+  background: hsla(24, 20%, 50%,.08);
+  background: linear-gradient(to right, hsla(24, 20%, 50%,.1) 70%, hsla(24, 20%, 50%,0));
+  pointer-events: none;
+  line-height: inherit;
+  white-space: pre;
+}
+
+pre[data-line] .line-highlight:before, 
+pre[data-line] .line-highlight[data-end]:after {
+  content: attr(data-start);
+  position: absolute;
+  top: .4em;
+  left: .6em;
+  min-width: 1em;
+  padding: 0 .5em;
+  background-color: hsla(24, 20%, 50%,.4);
+  color: hsl(24, 20%, 95%);
+  font: bold 65%/1.5 sans-serif;
+  text-align: center;
+  vertical-align: .3em;
+  border-radius: 999px;
+  text-shadow: none;
+  box-shadow: 0 1px white;
+}
+
+pre[data-line] .line-highlight[data-end]:after {
+  content: attr(data-end);
+  top: auto;
+  bottom: .4em;
+}html body{font-family:"Helvetica Neue",Helvetica,"Segoe UI",Arial,freesans,sans-serif;font-size:16px;line-height:1.6;color:#333;background-color:#fff;overflow:initial;box-sizing:border-box;word-wrap:break-word}html body>:first-child{margin-top:0}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{line-height:1.2;margin-top:1em;margin-bottom:16px;color:#000}html body h1{font-size:2.25em;font-weight:300;padding-bottom:.3em}html body h2{font-size:1.75em;font-weight:400;padding-bottom:.3em}html body h3{font-size:1.5em;font-weight:500}html body h4{font-size:1.25em;font-weight:600}html body h5{font-size:1.1em;font-weight:600}html body h6{font-size:1em;font-weight:600}html body h1,html body h2,html body h3,html body h4,html body h5{font-weight:600}html body h5{font-size:1em}html body h6{color:#5c5c5c}html body strong{color:#000}html body del{color:#5c5c5c}html body a:not([href]){color:inherit;text-decoration:none}html body a{color:#08c;text-decoration:none}html body a:hover{color:#00a3f5;text-decoration:none}html body img{max-width:100%}html body>p{margin-top:0;margin-bottom:16px;word-wrap:break-word}html body>ul,html body>ol{margin-bottom:16px}html body ul,html body ol{padding-left:2em}html body ul.no-list,html body ol.no-list{padding:0;list-style-type:none}html body ul ul,html body ul ol,html body ol ol,html body ol ul{margin-top:0;margin-bottom:0}html body li{margin-bottom:0}html body li.task-list-item{list-style:none}html body li>p{margin-top:0;margin-bottom:0}html body .task-list-item-checkbox{margin:0 .2em .25em -1.8em;vertical-align:middle}html body .task-list-item-checkbox:hover{cursor:pointer}html body blockquote{margin:16px 0;font-size:inherit;padding:0 15px;color:#5c5c5c;background-color:#f0f0f0;border-left:4px solid #d6d6d6}html body blockquote>:first-child{margin-top:0}html body blockquote>:last-child{margin-bottom:0}html body hr{height:4px;margin:32px 0;background-color:#d6d6d6;border:0 none}html body table{margin:10px 0 15px 0;border-collapse:collapse;border-spacing:0;display:block;width:100%;overflow:auto;word-break:normal;word-break:keep-all}html body table th{font-weight:bold;color:#000}html body table td,html body table th{border:1px solid #d6d6d6;padding:6px 13px}html body dl{padding:0}html body dl dt{padding:0;margin-top:16px;font-size:1em;font-style:italic;font-weight:bold}html body dl dd{padding:0 16px;margin-bottom:16px}html body code{font-family:Menlo,Monaco,Consolas,'Courier New',monospace;font-size:.85em !important;color:#000;background-color:#f0f0f0;border-radius:3px;padding:.2em 0}html body code::before,html body code::after{letter-spacing:-0.2em;content:"\00a0"}html body pre>code{padding:0;margin:0;font-size:.85em !important;word-break:normal;white-space:pre;background:transparent;border:0}html body .highlight{margin-bottom:16px}html body .highlight pre,html body pre{padding:1em;overflow:auto;font-size:.85em !important;line-height:1.45;border:#d6d6d6;border-radius:3px}html body .highlight pre{margin-bottom:0;word-break:normal}html body pre code,html body pre tt{display:inline;max-width:initial;padding:0;margin:0;overflow:initial;line-height:inherit;word-wrap:normal;background-color:transparent;border:0}html body pre code:before,html body pre tt:before,html body pre code:after,html body pre tt:after{content:normal}html body p,html body blockquote,html body ul,html body ol,html body dl,html body pre{margin-top:0;margin-bottom:16px}html body kbd{color:#000;border:1px solid #d6d6d6;border-bottom:2px solid #c7c7c7;padding:2px 4px;background-color:#f0f0f0;border-radius:3px}@media print{html body{background-color:#fff}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{color:#000;page-break-after:avoid}html body blockquote{color:#5c5c5c}html body pre{page-break-inside:avoid}html body table{display:table}html body img{display:block;max-width:100%;max-height:100%}html body pre,html body code{word-wrap:break-word;white-space:pre}}.markdown-preview{width:100%;height:100%;box-sizing:border-box}.markdown-preview .pagebreak,.markdown-preview .newpage{page-break-before:always}.markdown-preview pre.line-numbers{position:relative;padding-left:3.8em;counter-reset:linenumber}.markdown-preview pre.line-numbers>code{position:relative}.markdown-preview pre.line-numbers .line-numbers-rows{position:absolute;pointer-events:none;top:1em;font-size:100%;left:0;width:3em;letter-spacing:-1px;border-right:1px solid #999;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.markdown-preview pre.line-numbers .line-numbers-rows>span{pointer-events:none;display:block;counter-increment:linenumber}.markdown-preview pre.line-numbers .line-numbers-rows>span:before{content:counter(linenumber);color:#999;display:block;padding-right:.8em;text-align:right}.markdown-preview .mathjax-exps .MathJax_Display{text-align:center !important}.markdown-preview:not([for="preview"]) .code-chunk .btn-group{display:none}.markdown-preview:not([for="preview"]) .code-chunk .status{display:none}.markdown-preview:not([for="preview"]) .code-chunk .output-div{margin-bottom:16px}.markdown-preview .md-toc{padding:0}.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link{display:inline;padding:.25rem 0}.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link p,.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link div{display:inline}.markdown-preview .md-toc .md-toc-link-wrapper.highlighted .md-toc-link{font-weight:800}.scrollbar-style::-webkit-scrollbar{width:8px}.scrollbar-style::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}.scrollbar-style::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,0.66);border:4px solid rgba(150,150,150,0.66);background-clip:content-box}html body[for="html-export"]:not([data-presentation-mode]){position:relative;width:100%;height:100%;top:0;left:0;margin:0;padding:0;overflow:auto}html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{position:relative;top:0}@media screen and (min-width:914px){html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{padding:2em calc(50% - 457px + 2em)}}@media screen and (max-width:914px){html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{font-size:14px !important;padding:1em}}@media print{html body[for="html-export"]:not([data-presentation-mode]) #sidebar-toc-btn{display:none}}html body[for="html-export"]:not([data-presentation-mode]) #sidebar-toc-btn{position:fixed;bottom:8px;left:8px;font-size:28px;cursor:pointer;color:inherit;z-index:99;width:32px;text-align:center;opacity:.4}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] #sidebar-toc-btn{opacity:1}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc{position:fixed;top:0;left:0;width:300px;height:100%;padding:32px 0 48px 0;font-size:14px;box-shadow:0 0 4px rgba(150,150,150,0.33);box-sizing:border-box;overflow:auto;background-color:inherit}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar{width:8px}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,0.66);border:4px solid rgba(150,150,150,0.66);background-clip:content-box}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc a{text-decoration:none}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc{padding:0 16px}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link{display:inline;padding:.25rem 0}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link p,html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link div{display:inline}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper.highlighted .md-toc-link{font-weight:800}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{left:300px;width:calc(100% -  300px);padding:2em calc(50% - 457px -  300px/2);margin:0;box-sizing:border-box}@media screen and (max-width:1274px){html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{width:100%}}html body[for="html-export"]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .markdown-preview{left:50%;transform:translateX(-50%)}html body[for="html-export"]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .md-sidebar-toc{display:none}
+/* Please visit the URL below for more information: */
+/*   https://shd101wyy.github.io/markdown-preview-enhanced/#/customize-css */
+
+      </style>
+    </head>
+    <body for="html-export">
+      <div class="mume markdown-preview  ">
+      <title>life crash</title><link rel="stylesheet" type="text/css" href="https://jsndyks.github.io/web/css/pages.css"><style>
+  ul {list-style-type: "» "; margin-left:-1em}
+  li {padding-top:0.25em;padding-bottom:0.25em;}
+  .oneCol {padding-left:15%;padding-right:15%; font-size:95%; letter-spacing: +0.5px; line-height:2 }
+  .crash {font-weight:bold; font-size:100%}
+  .crash .caps {font-weight:bold; font-size:90%; font-variant-caps: all-caps}
+</style><div class="oneCol" width="67%" markdown="1">
+<h2>LIFE CRASH</h2>
+<p>When I was thinking about what has happened to me over the last few months, the term &#x2018;<strong>Life Crash</strong>&#x2019; seemed to describe it pretty well.</p>
+<p>I <em>Googled</em> it, to see whether anybody else had ever had one, and not much came up ... other than <a href="https://www.instagram.com/p/Ceq4sHqOAvQ/?img_index=1">a wonderful  sequence of drawings</a> by <a href="https://henryjonesstudio.com/">Henry Jones</a>. His cartoon depicts <a href="https://www.instagram.com/p/Ceq4sHqOAvQ/?img_index=4">an incident caught on video</a> outside the <a href="https://www.macba.cat/en">Barcelona Museum of Contemporary Art</a> - <em><a href="https://macbalife.com/">MACBA <u>Life</u></a></em>: <span class="crash">&#xAB;<span class="caps"><u>CRASH</u></span>&#xBB;</span></p>
+<div class="topTitle" width="80%">
+<a href="./img/henryJones.2000.png"><img src="./img/henryJones.2000.png" style="border:none"></a>
+</div>
+<p>The sequences of sketches capturing the <span class="crash">&#xAB;<span class="caps">CRASH</span>&#xBB;</span> is part of a collection that observes the everyday as it happens around the <em><a href="https://www.macba.cat/en">MACBA</a></em>. That&#x2019;s how <em>Life</em> and <em>Crash</em> find themselves together in a <em>Google</em> search - unusually as it turns out - and how I found the imagery that I am clinging onto. The term seemed to describe how I felt very effectively, but the incident and the way <a href="https://henryjonesstudio.com/">Henry Jones</a> captured the <span class="crash">&#xAB;<span class="caps">CRASH</span>&#xBB;</span> so brilliantly resonated particularly strongly with me. Yep, that was me. I knew how that felt.</p>
+<p>Somehow the cartoon captures how I feel. It is <em>joyful</em>, <em>painful</em>, <em>funny</em>, <em>concerning</em>, <em>surprising</em>, <em>uncertain</em>, <em>everyday</em>, <em>extraordinary</em>, <em>unfinished</em>. There I was, cruising along, decent pace, smooth surface, enjoying life without too much friction, pulling a few tricks, not working too hard but still surprising a few people (myself mainly). I was loving the view (the family, the bike, the kayak, even the cats) and the feeling of the breeze rushing by, good balance - slight adjustments en route, and thinking I knew how to ride this thing pretty well when &#x2026;<br><span class="crash">&#xAB;<span class="caps">CRASH</span>&#xBB;</span>.<br>
+<br><span style="padding-left:0em">I&#x2019;m on my back, looking at the skies, seeing stars and wondering whether or not I can pick myself up and keep going.</span><br>
+<br><span style="padding-left:2em">My head hurts.</span><br>
+<br><span style="padding-left:4em">Everything hurts.</span><br>
+<br><span style="padding-left:6em">Everything has stopped.</span><br>
+<br><span style="padding-left:8em">What the hell was that?</span><br>
+<br><span style="padding-left:10em">What was I doing?</span></p>
+<p>I like the <em>sigh</em>, the sharp intake of breath, that you can hear on <a href="https://www.instagram.com/p/Ceq4sHqOAvQ/?img_index=4">the video</a> too.</p>
+<p>My personal sturdily foundationed litter bin is <em>skin cancer</em>. Early in the summer I noticed a mole on the back of my leg that I didn&#x2019;t remember seeing before. My kayaking and swimming and cycling and beach pilgrimages were interrupted by various checks, inspections, photos, consultations and ultimately minor surgery through July and August. I got a call from the Dermatology unit while I was paddling on the River Fowey and had one final swim in the deep cold brackish out by the blockhouse, one final jump off the rocks, before being hoiked home early and dragging the family back to Leicester. I sort-of knew where I was.</p>
+<p>I know my moles well. I have always been fussy about my skin as my Mum, <em>Phyl</em>, had a malignant melanoma removed in the 70s when she was in her early 30s. I was about 10 then: blond bowl haircut, baggy jeans, scruffy trainers, M&amp;S T-shirt, home-knitted jumper (for goal posts). Despite her amazing and inspiring recovery, I have always been hyper vigilant and hyper scared of cancer as:</p>
+<ul>
+<li><strong>Mum</strong> had a chunk of her thigh removed and a successful skin graft that played a part in my childhood; and after that ...</li>
+<li><strong>I</strong> spent many nights in hospital aged about 11 on a ward with children who had cancer. The kids on the ward at Bristol Children&#x2019;s Hospital had hairy wigs by day and seemed quite lively - they raced around the ward more than I did. But my memories of the nights are strong and stay with me. The kids were bald and restless, wailing and needing medical staff as the lights on their bedside machines flashed and unleashed urgent and unrelenting beeps in the dark. It sounded awful. I remember the desperation of the doctors in the night. I wasn&#x2019;t sure whether people were dying or being kept alive, whether I was supposed to b able to see and hear. I didn&#x2019;t sleep much. I had an undiagnosed muscle wasting disease, lots of blood taken, and doctors standing over me discussing cancer, leukemia and as far as I could tell, anything else they could think of day after day. So lots of uncertainty, fear of hospital, fear or diagnosis and fear of cancer there; and then down the line ...</li>
+<li>My <strong>Dad</strong>, <em>Gordon</em>, got cancer at 52 in the 90s just as I was starting my PhD in Leicester. He was dead within a very difficult 5 months of miserable decline. Tough on him, tough on us. Tough, tough, tough.</li>
+</ul>
+<p>Anyhow, the Leicester Dermatologists suspected that my mole was skin cancer, so they took it off my leg and the histology confirmed a melanoma and while there is some good news in terms of its removal, with good margins, I need more surgery and tests and time to rest and recover.<br>That&#x2019;s the <strong>Life Crash</strong> really. Because it stops you suddenly, hits you with shock, hurts awfully, captures your focus and you just feel as though you have slipped into a parallel universe that you don&#x2019;t want to be in and can never re-emerge from &#x2026; which is where the metaphor breaks down completely I suppose. Until you try to pick yourself up again and get back on the board and scoot forward. Cautiously. Hopefully.</p>
+<p>It helps me to think this way, to write this way and use the notion of <strong>Life Crash</strong> to briefly frame all that is going on. And explain, and share.</p>
+<p>In jotting this down, I wonder why people seem so frequently to write about and broadcast this kind of stuff, and I think it is about control. Framing the thing that you don&#x2019;t want to happen, the thing that threatens you, that scares you, that defines you in many ways, is a way of taming it a little &#x2026; at least psychologically.<br><br>
+Hence my <strong>Life Crash</strong>.<br><br>
+<em>Making it physical</em> helps me understand how to respond to it - as, believe me, the psychological side of things is significant, debilitating, dynamic and complex. And I am doing my best to work with the amazing scientists, doctors and psychotherapists to get back on my feet - literally and figuratively.<br><br>
+<em>Cartoonifying the whole thing</em>, and even sharing some empathy with the poor dude who hit the bin in Barcelona, helps a bit too.<br>There&#x2019;s not much more in life than love and laughter. Well, pain I guess too. There must be some kind of relationship there between those three.</p>
+<p>Also, it helps me focus on some of the positives. There are some really good potential outcomes, some promising signs, and excellent treatments are available and emerging, and I am putting all efforts into trying to do as well as my super-inspiring Mum, who at 82 has had half a century of fulfilling life post-treatment. But of course there are some grim places where this could go too and you can&#x2019;t help thinking about those, assessing and addressing your mortality and feeling as though nothing will ever be quite the same. Maybe this is life threatening. Maybe it is life shortening. Maybe not. Maybe I&#x2019;ll fall off my bike at the weekend or trip down the stairs in my new post-op baggy pyjamas and nobody will have to worry about any of this at all. But sunrises do seem a little sharper that they did right now. Cuddles with the kids are a little longer.</p>
+<p>So, there you go - my framing. I&#x2019;ve had a lot of fun in life - no complaints. We all die sometime, and from time to time it&#x2019;s good to have a long hard think about this and what it means - even when you have a screen full of overdue emails. This <strong>Life Crash</strong> has helped with that. I have gone deeper than ever before. It is a threat, and it hurts, but I am trying to get back on my feet and dust myself down &#x2026; with a bit less skin on my leg, a few scars to show, a lot of amazing help (thanks everyone, golly gosh I&apos;m lucky), and a bit more experience of ageing, mortality, and what all of this means for now and the future. For me sure, but also for <em>Alma</em>, <em>Brook</em>, <em>Fred</em> and <em>Nell</em>, and for <em>Emma</em> too, for whom this is a right pain.</p>
+<p>I am pleased that I have managed to buy some <em>Grip Tape</em> that features <a href="https://www.juxtapoz.com/news/magazine/stay-loose-a-six-pack-with-henry-jones/">Henry Jones</a>&apos; cartoon ... and am trying to find the deck. I don&apos;t skate, but I&apos;d love to have that hanging at eye level somewhere as I try to get back on my feet.<br><br>
+Love, laughter, pain and purchases, right?!</p>
+<div class="jdSig" markdown="1">
+<p>Jason <strong>DYKES</strong><br><em>14/11/23</em></p>
+<!---<br/>🐁--->
+</div>
+</div>
+
+      </div>
+      
+      
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    </body></html>
