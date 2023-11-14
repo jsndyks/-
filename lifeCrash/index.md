@@ -1,5 +1,7 @@
 <link rel="stylesheet" type="text/css" href="https://jsndyks.github.io/web/css/pages.css"/>
 
+<div width="67%" markdown="1">
+
 ## LIFE CRASH
 
 ---
@@ -40,5 +42,7 @@ Love, laughter, pain and purchases, right?!
 
 Jason **DYKES**<br/>_14/11/23_
 <!---<br/>🐁--->
+
+</div>
 
 </div>
