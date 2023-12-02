@@ -60,7 +60,7 @@ In terms of [Henry Jones](https://www.juxtapoz.com/news/magazine/stay-loose-a-si
 Thanks to [Concrete Wave in Köln](https://www.concretewave.de/) for sending it over - with loads of stickers.<br/>
 And I have managed to find a deck too. There was only one anywhere online - at the [Southopia Skate Park in Ragusa, Sicily](https://maps.app.goo.gl/qVBoYxYmZAm3mbxw5). Thanks to the [Southopia Shop](https://www.southopiashop.com/) for shipping it and _Famiglia Tarroni_ for helping get it ordered, purchased, posted and squeezed through customs despite Brexit!<br/>
 I don't skate, but it's great to have the deck hanging at eye level as I try to get back on my feet.<br/>
-Love, laughter, pain and purchases, right?!
+Love, laughter, fear, pain and purchases, right?!
 
 <div class="jdSig" markdown="1">
 
