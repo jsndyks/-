@@ -64,7 +64,7 @@ And I have managed to find a deck too. There was only one anywhere online - at t
 I don't skate, but it's great to have the deck hanging at eye level as I try to get back on my feet.<br/>
 Love, laughter, fear, pain and purchases, right?!
 
-_<u>Life</u>_ <span class="crash">&laquo;<span class="caps">CRASH</span>&raquo;</span>.
+‘**Life Crash**’!
 
 <div class="jdSig" markdown="1">
 
