@@ -15,19 +15,20 @@
 
 ## LIFE CRASH
 
-When I was thinking about what has happened to me over the last few months, the term ‘**Life Crash**’ seemed to describe it pretty well.
+When I was thinking about what has happened to me over the last few months, one term seemed to describe it pretty well: ‘**Life Crash**’.
 
 I _Googled_ it, to see whether anybody else had ever had one, and not much came up ... other than [a wonderful  cartoon](https://www.instagram.com/p/Ceq4sHqOAvQ/?img_index=1) by [Henry Jones](https://henryjonesstudio.com/). 
-
-<div class="topTitle" width="80%">
-<a href="./img/henryJones.2000.png"><img src="./img/henryJones.2000.png" style="border:none"/></a>
-</div>
 
 His sequence of sketches captures (celebrates?) [an incident caught on video](https://www.instagram.com/p/Ceq4sHqOAvQ/?img_index=4) outside the [Barcelona Museum of Contemporary Art](https://www.macba.cat/en), that involves a juddering <span class="crash">&laquo;<span class="caps"><u>CRASH</u></span>&raquo;</span>.
 The drawings are part of a collection that observes the everyday as it happens around the [MACBA](https://www.macba.cat/en),
 hence: &nbsp;&nbsp;_[MACBA <u>Life</u>](https://macbalife.com/)_ <span class="crash">&laquo;<span class="caps">CRASH</span>&raquo;</span>.
 
-That’s how _Life_ and _Crash_ find themselves together in a _Google_ search - unusually as it turns out - and how I found the imagery that I am clinging onto as my head continues to spin. The term seemed to describe how I felt very effectively, but the incident and the way [Henry Jones](https://www.vice.com/en/article/nexkad/take-a-dive-into-henry-jones-satirical-skate-art) depicted the <span class="crash">&laquo;<span class="caps">CRASH</span>&raquo;</span> so tellingly, resonated particularly strongly with me.<br/>Yep, that was me. I knew how that felt.
+<div class="topTitle" width="80%">
+<a href="./img/henryJones.2000.png"><img src="./img/henryJones.2000.png" style="border:none"/></a>
+</div>
+
+
+That’s how _Life_ and _Crash_ find themselves together in a _Google_ search - unusually as it turns out - and how I found this imagery that I am clinging onto, sharing here, and hanging on the way at home, as my head continues to spin. The term seemed to describe how I felt very effectively, but the incident and the way [Henry Jones](https://www.vice.com/en/article/nexkad/take-a-dive-into-henry-jones-satirical-skate-art) depicted the <span class="crash">&laquo;<span class="caps">CRASH</span>&raquo;</span> so tellingly, resonated particularly strongly with me.<br/>Yep, that was me. I knew how that felt.
 <!-- I have had a  ‘**Life Crash**’. -->
 
 Somehow the cartoon captures much of what I am feeling. It is _joyful_, _painful_, _funny_, _concerning_, _surprising_, _uncertain_, _everyday_, _extraordinary_, _unfinished_. There I was, cruising along, decent pace, smooth surface, enjoying life without too much friction, pulling a few tricks, not working too hard but still surprising a few people (myself mainly). I was loving the view (the family, the bike, the kayak, the garden, even the cats) and the feeling of the breeze rushing by, with good balance - slight adjustments en route, and thinking I knew how to ride this life thing pretty well when …<br/><span class="crash">&laquo;<span class="caps">CRASH</span>&raquo;</span>.
