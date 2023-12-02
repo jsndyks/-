@@ -58,7 +58,7 @@ I am pleased that I have managed to buy some _Grip Tape_ that features [Henry Jo
 Thanks to [Concrete Wave in Köln](https://www.concretewave.de/) for sending it over - with loads of stickers.
 
 And I have managed to find the deck too. 
-Thanks to [SouthopisShop in Sicily](https://www.southopiashop.com/) and _Famiglia Tarroni_ for helping get that ordered, purchased, posted and squeezed through customs!
+Thanks to [Southopia Shop](https://www.southopiashop.com/) at the [Skate Park in Ragusa, Sicily](https://maps.app.goo.gl/qVBoYxYmZAm3mbxw5) for shipping it and _Famiglia Tarroni_ for helping get it ordered, purchased, posted and squeezed through customs!</br>
 I don't skate, but it's great to have the deck hanging at eye level as I try to get back on my feet.<br/>
 Love, laughter, pain and purchases, right?!
 
