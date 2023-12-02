@@ -58,9 +58,8 @@ Also, it helps me focus on some of the positives. There are some really good pot
 So, there you go - my framing. I’ve had a lot of fun in life - no complaints. We all die sometime, and from time to time it’s good to have a long hard think about this and what it means - even when you have a screen full of overdue emails. This **Life Crash** concept, thinking, art, sharing, has helped with that. I have gone deeper than ever before. It is a threat, and it hurts, but I am trying to get back on my feet and dust myself down … with a bit less skin on my leg, a few scars to show, a lot of amazing help (thanks everyone, golly gosh I'm lucky), and a bit more experience of ageing, mortality, and what all of this means for now and the future. For me, sure, but also for _Alma_, _Brook_, _Fred_ and _Nell_, and for _Emma_ too, for whom this is a right pain.
 
 In terms of [Henry Jones](https://www.juxtapoz.com/news/magazine/stay-loose-a-six-pack-with-henry-jones/)' cartoon, well I am pleased that I have managed to buy some _Grip Tape_ that features it ... and now have this framed and hung.
-Thanks to [Concrete Wave in Köln](https://www.concretewave.de/) for sending it over - with loads of stickers.
-
-And I have managed to find a deck too. There was only one anywhere online - at the [Southopia Skate Park in Ragusa, Sicily](https://maps.app.goo.gl/qVBoYxYmZAm3mbxw5). Thanks to the [Southopia Shop](https://www.southopiashop.com/) for shipping it and _Famiglia Tarroni_ for helping get it ordered, purchased, posted and squeezed through customs!<br/>
+Thanks to [Concrete Wave in Köln](https://www.concretewave.de/) for sending it over - with loads of stickers.<br/>
+And I have managed to find a deck too. There was only one anywhere online - at the [Southopia Skate Park in Ragusa, Sicily](https://maps.app.goo.gl/qVBoYxYmZAm3mbxw5). Thanks to the [Southopia Shop](https://www.southopiashop.com/) for shipping it and _Famiglia Tarroni_ for helping get it ordered, purchased, posted and squeezed through customs despite Brexit!<br/>
 I don't skate, but it's great to have the deck hanging at eye level as I try to get back on my feet.<br/>
 Love, laughter, pain and purchases, right?!
 
