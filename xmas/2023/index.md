@@ -20,8 +20,10 @@ Our Christmas photo pack for this year ...
 ### Pic of The Month
 
 Each month we take a picture to see how the kids are growing up.
+A structured record of change, or not change as they get older!
 
 Alma and Nell are eleven this month, Fred and Brook are 18 in March.
+They all seem to be into it still.
 
 #### &raquo; ALMA
 
@@ -49,7 +51,7 @@ Alma and Nell are eleven this month, Fred and Brook are 18 in March.
 
 ### Pic of The Year
 
-And each year we try to find some pictures that show what we have been up to during the good times:<br/>family adventures in some of our favourite places ...
+And each year we try to find some pictures that show what we have been up to during the good times: family adventures in some of our favourite places. Holidays, weekend walks, bike rides, trips to nice places and sometimes just messing around in the garden ...
 
 <div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
 <a href="xmas2023.alma.jpg"><img src="xmas2023.alma.jpg" style="border:dashed #e0e0e0 1px"/></a>
@@ -96,7 +98,7 @@ And each year we try to find some pictures that show what we have been up to dur
 <div class="jdSig" markdown="1">
 
 Jason **DYKES**<br/>
-<span style="padding-left:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;_07/12/2023_<br/></span>
+<span style="padding-left:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;_08/12/2023_<br/></span>
 <!--- <br/>🐁 --->
 <!--- update --->
 
