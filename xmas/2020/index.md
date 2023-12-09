@@ -16,7 +16,7 @@
 
 <div class='navBar' markdown="1">
 
-[2023](../2023) &nbsp;&nbsp;&laquo;&nbsp;&nbsp; [2022](../2022) &nbsp;&nbsp;&laquo;&nbsp;&nbsp; [2021](../2021) &nbsp;&nbsp;&laquo;&nbsp;&nbsp; [2020](../2020)
+[2023](../2023) &nbsp;&nbsp;&laquo;&nbsp;&nbsp; [2022](../2022) &nbsp;&nbsp;&laquo;&nbsp;&nbsp; [2021](../2021) &nbsp;&nbsp;&laquo;&nbsp;&nbsp; [2020](../2020) &nbsp;&nbsp;&laquo;&nbsp;&nbsp; [2019](../2019)
 </div>
 
 ## xmas 2020
@@ -42,7 +42,7 @@ Alma and Nell are eight, Fred and Iko are 14.
 <a href="./nell20-3600x2400.jpg"><img src="nell20-3600x2400.jpg" style="border:none"/></a>
 </div>
 
-#### &raquo; iko
+#### &raquo; IKO
 
 <div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
 <a href="./iko20-3600x2400.jpg"><img src="iko20-3600x2400.jpg" style="border:none"/></a>
