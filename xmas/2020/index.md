@@ -101,7 +101,7 @@ I take hundreds, thousands of photos, and try to limit it to _ten_ that vary a l
 
 ### Lockdown
 
-Well, we spent a fair amount of time at home, but were lucky to have so much quiet countryside to explore and enjoy and got busy &amp; creative ... 
+Well, we spent a fair amount of time at home, but were lucky to have so much quiet countryside to explore and enjoy, and got busy &amp; creative ... 
 
 <div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
 <a href="xmas2020.lockDown.288.jpg"><img src="xmas2020.lockDown.288.jpg" style="border:dashed #e0e0e0 1px"/></a>

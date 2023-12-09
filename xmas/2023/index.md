@@ -9,13 +9,15 @@
   .crash {font-weight:bold; font-size:100%}
   .crash .caps {font-weight:bold; font-size:90%; font-variant-caps: all-caps}
   .indent {font-style:normal}
+  .navBar {float:right; padding-left:1em}
 </style>
 
 <div class="oneCol" width="67%" markdown="1">
 
-[2020](../2020) &nbsp;&nbsp;-&nbsp;&nbsp; [2021](../2021) &nbsp;&nbsp;-&nbsp;&nbsp; [2022](../2022) &nbsp;&nbsp;-&nbsp;&nbsp; [2023](../2023) 
+<div style='navBar' markdown="1">
+[2020](../2020) &nbsp;&nbsp;-&nbsp;&nbsp; [2021](../2021) &nbsp;&nbsp;-&nbsp;&nbsp; [2022](../2022) &nbsp;&nbsp;-&nbsp;&nbsp; [2023](../2023)
+</div>
 
----
 
 ## xmas 2023
 
@@ -103,7 +105,7 @@ I take hundreds, thousands of photos, and try to limit it to _ten_ that vary a l
 <div class="jdSig" markdown="1">
 
 Jason **DYKES**<br/>
-<span style="padding-left:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;_08/12/2023_<br/></span>
+<span style="padding-left:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;_09/12/2023_<br/></span>
 <!--- <br/>🐁 --->
 <!--- update --->
 
