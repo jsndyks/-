@@ -9,12 +9,10 @@
   .crash {font-weight:bold; font-size:100%}
   .crash .caps {font-weight:bold; font-size:90%; font-variant-caps: all-caps}
   .indent {font-style:normal}
-  .navBar {float:right; padding-left:1em; text-align"right; markdown:1}
+  .navBar {float:right; padding-left:1em; text-align"right; markdown:1; margin-bottom:0.25em}
 </style>
 
 <div class="oneCol" width="67%" markdown="1">
-
-<div class='navBar' markdown="1">
 
 [2023](../2023) &nbsp;&nbsp;&laquo;&nbsp;&nbsp; [2022](../2022) &nbsp;&nbsp;&laquo;&nbsp;&nbsp; [2021](../2021) &nbsp;&nbsp;&laquo;&nbsp;&nbsp; [2020](../2020)
 </div>
