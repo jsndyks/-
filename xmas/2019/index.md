@@ -16,7 +16,7 @@
 
 <div class='navBar' markdown="1">
 
-[2023](../2023) &nbsp;&nbsp;&laquo;&nbsp;&nbsp; [2022](../2022) &nbsp;&nbsp;&laquo;&nbsp;&nbsp; [2021](../2021) &nbsp;&nbsp;&laquo;&nbsp;&nbsp; [2020](../2020) &nbsp;&nbsp;&laquo;&nbsp;&nbsp; [2019](../2019) &nbsp;&nbsp;&laquo;&nbsp;&nbsp; [2018](../2018) &nbsp;&nbsp;&laquo;&nbsp;&nbsp; [2017](../2017)
+[2023](../2023) &nbsp;&nbsp;&laquo;&nbsp;&nbsp; [2022](../2022) &nbsp;&nbsp;&laquo;&nbsp;&nbsp; [2021](../2021) &nbsp;&nbsp;&laquo;&nbsp;&nbsp; [2020](../2020) &nbsp;&nbsp;&laquo;&nbsp;&nbsp; [2019](../2019) &nbsp;&nbsp;&laquo;&nbsp;&nbsp; [2018](../2018) &nbsp;&nbsp;&laquo;&nbsp;&nbsp; [2017](../2017) &nbsp;&nbsp;&laquo;&nbsp;&nbsp; [2016](../2016)
 </div>
 
 ## xmas 2019
@@ -54,7 +54,7 @@ Alma and Nell are seven, Fred and Iko are teenagers.
 <a href="./fred19-3600x2400.jpg"><img src="fred19-3600x2400.jpg" style="border:none"/></a>
 </div>
 
-### Pic of The Year
+### Pics of The Year
 
 And each year we try to find some pictures that show what we have been up to during the good times: family adventures in some of our favourite places.<br/>Holidays, weekend walks, bike rides, trips to nice places and sometimes just messing around in the garden.<br/>
 I take hundreds, thousands of photos, and try to limit it to _ten_ that vary a little in terms of the people, times and places  that are captured ...
