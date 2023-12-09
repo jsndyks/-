@@ -1,0 +1,95 @@
+<head><title> xmas 2017 </title></head>
+
+<link rel="stylesheet" type="text/css" href="https://jsndyks.github.io/web/css/pages.css"/>
+
+<style>
+  ul {list-style-type: "» "; margin-left:-1em}
+  li {padding-top:0.25em;padding-bottom:0.25em;}
+  .oneCol {padding-left:15%;padding-right:15%; font-size:95%; letter-spacing: +0.25px; line-height:1.65 }
+  .crash {font-weight:bold; font-size:100%}
+  .crash .caps {font-weight:bold; font-size:90%; font-variant-caps: all-caps}
+  .indent {font-style:normal}
+  .navBar {float:right; padding-left:1em; text-align"right; markdown:1}
+</style>
+
+<div class="oneCol" width="67%" markdown="1">
+
+<div class='navBar' markdown="1">
+
+[2023](../2023) &nbsp;&nbsp;&laquo;&nbsp;&nbsp; [2022](../2022) &nbsp;&nbsp;&laquo;&nbsp;&nbsp; [2021](../2021) &nbsp;&nbsp;&laquo;&nbsp;&nbsp; [2020](../2020) &nbsp;&nbsp;&laquo;&nbsp;&nbsp; [2019](../2019) &nbsp;&nbsp;&laquo;&nbsp;&nbsp; [2018](../2018) &nbsp;&nbsp;&laquo;&nbsp;&nbsp; [2017](../2017)
+</div>
+
+## xmas 2017
+
+Our Christmas photo pack for this year ...
+
+### Pic of The Month
+
+Each month we take a picture to see how the kids are growing up.<br/>
+A structured record of change, or not change as they get older!
+
+Alma and Nell are five, Fred and Iko will are eleven.
+
+#### &raquo; ALMA
+
+<div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
+<a href="./alma17-3600x2400.jpg"><img src="alma17-3600x2400.jpg" style="border:none"/></a>
+</div>
+
+#### &raquo; NELL
+
+<div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
+<a href="./nell17-3600x2400.jpg"><img src="nell17-3600x2400.jpg" style="border:none"/></a>
+</div>
+
+#### &raquo; IKO
+
+<div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
+<a href="./iko17-3600x2400.jpg"><img src="iko17-3600x2400.jpg" style="border:none"/></a>
+</div>
+
+#### &raquo; FRED
+
+<div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
+<a href="./fred17-3600x2400.jpg"><img src="fred17-3600x2400.jpg" style="border:none"/></a>
+</div>
+
+### Pic of The Year
+
+And each year we try to find some pictures that show what we have been up to during the good times: family adventures in some of our favourite places.<br/>Holidays, weekend walks, bike rides, trips to nice places and sometimes just messing around in the garden.<br/>
+I take hundreds, thousands of photos, and try to limit it to _ten_ that vary a little in terms of the people, times and places that are captured. I only managed _six_ this year ...
+
+<div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
+<a href="xmas2017.family.cumbria.jpg"><img src="xmas2017.family.cumbria.jpg" style="border:dashed #e0e0e0 1px"/></a>
+</div>
+
+<div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
+<a href="xmas2017.family.beaconHill.jpg"><img src="xmas2017.family.beaconHill.jpg" style="border:dashed #e0e0e0 1px"/></a>
+</div>
+
+<div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
+<a href="xmas2017.family.polruan.jpg"><img src="xmas2017.family.polruan .jpg" style="border:dashed #e0e0e0 1px"/></a>
+</div>
+
+<div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
+<a href="xmas2017.family.gwithian.jpg"><img src="xmas2017.family.gwithian.jpg" style="border:dashed #e0e0e0 1px"/></a>
+</div>
+
+<div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
+<a href="xmas2017.family.tresco.jpg"><img src="xmas2017.family.tresco.jpg" style="border:dashed #e0e0e0 1px"/></a>
+</div>
+
+<div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
+<a href="xmas2017.family.stDavids.jpg"><img src="xmas2017.family.stDavids.jpg" style="border:dashed #e0e0e0 1px"/></a>
+</div>
+
+---
+
+<div class="jdSig" markdown="1">
+
+Jason **DYKES**<br/>
+<span style="padding-left:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;_09/12/2023_<br/></span>
+<!--- <br/>🐁 --->
+<!--- update --->
+
+</div>
