@@ -1,4 +1,4 @@
-<head><title> xmas 2017 </title></head>
+<head><title> xmas 2014 </title></head>
 
 <link rel="stylesheet" type="text/css" href="https://jsndyks.github.io/web/css/pages.css"/>
 
@@ -20,7 +20,7 @@
 
 </div>
 
-## xmas 2017
+## xmas 2014
 
 Our Christmas photo pack for this year ...
 
@@ -29,67 +29,68 @@ Our Christmas photo pack for this year ...
 Each month we take a picture to see how the kids are growing up.<br/>
 A structured record of change, or not change as they get older!
 
-Alma and Nell are five, Fred and Iko will are eleven.
+Alma and Nell are four, Fred and Iko will are now in double figures!
 
 #### &raquo; ALMA
 
 <div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="./alma17-3600x2400.jpg"><img src="alma17-3600x2400.jpg" style="border:none"/></a>
+<a href="./alma14-3600x2400.jpg"><img src="alma14-3600x2400.jpg" style="border:none"/></a>
 </div>
 
 #### &raquo; NELL
 
 <div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="./nell17-3600x2400.jpg"><img src="nell17-3600x2400.jpg" style="border:none"/></a>
+<a href="./nell14-3600x2400.jpg"><img src="nell14-3600x2400.jpg" style="border:none"/></a>
 </div>
 
 #### &raquo; IKO
 
 <div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="./iko17-3600x2400.jpg"><img src="iko17-3600x2400.jpg" style="border:none"/></a>
+<a href="./iko14-3600x2400.jpg"><img src="iko14-3600x2400.jpg" style="border:none"/></a>
 </div>
 
 #### &raquo; FRED
 
 <div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="./fred17-3600x2400.jpg"><img src="fred17-3600x2400.jpg" style="border:none"/></a>
+<a href="./fred14-3600x2400.jpg"><img src="fred14-3600x2400.jpg" style="border:none"/></a>
 </div>
 
 ### Pics of The Year
 
 And each year we try to find some pictures that show what we have been up to during the good times: family adventures in some of our favourite places.<br/>Holidays, weekend walks, bike rides, trips to nice places and sometimes just messing around in the garden.<br/>
-I take hundreds, thousands of photos, and try to limit it to _ten_ that vary a little in terms of the people, times and places that are captured. I only managed _six_ this year ...
+I take hundreds, thousands of photos, and try to find _six_ or _eight_ that vary a little in terms of the people, times and places that are captured ...
 
 <div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="xmas2017.family.cumbria.jpg"><img src="xmas2017.family.cumbria.jpg" style="border:dashed #e0e0e0 1px"/></a>
+<a href="xmas2014.alma.jpg"><img src="xmas2014.alma.jpg" style="border:dashed #e0e0e0 1px"/></a>
 </div>
 
 <div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="xmas2017.family.beaconHill.jpg"><img src="xmas2017.family.beaconHill.jpg" style="border:dashed #e0e0e0 1px"/></a>
+<a href="xmas2014.iko.jpg"><img src="xmas2014.iko.jpg" style="border:dashed #e0e0e0 1px"/></a>
 </div>
 
 <div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="xmas2017.family.polruan.jpg"><img src="xmas2017.family.polruan .jpg" style="border:dashed #e0e0e0 1px"/></a>
+<a href="xmas2014.fred.jpg"><img src="xmas2014.fred.jpg" style="border:dashed #e0e0e0 1px"/></a>
 </div>
 
 <div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="xmas2017.family.gwithian.jpg"><img src="xmas2017.family.gwithian.jpg" style="border:dashed #e0e0e0 1px"/></a>
+<a href="xmas2014.nell.jpg"><img src="xmas2014.nell.jpg" style="border:dashed #e0e0e0 1px"/></a>
 </div>
 
 <div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="xmas2017.family.tresco.jpg"><img src="xmas2017.family.tresco.jpg" style="border:dashed #e0e0e0 1px"/></a>
+<a href="xmas2014.pairs.if.jpg"><img src="xmas2014.pairs.if.jpg" style="border:dashed #e0e0e0 1px"/></a>
 </div>
 
 <div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="xmas2017.family.stDavids.jpg"><img src="xmas2017.family.stDavids.jpg" style="border:dashed #e0e0e0 1px"/></a>
+<a href="xmas2014.pairs.an.jpg"><img src="xmas2014.pairs.an.jpg" style="border:dashed #e0e0e0 1px"/></a>
 </div>
+
 
 ---
 
 <div class="jdSig" markdown="1">
 
 Jason **DYKES**<br/>
-<span style="padding-left:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;_09/12/2023_<br/></span>
+<span style="padding-left:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;_10/12/2023_<br/></span>
 <!--- <br/>🐁 --->
 <!--- update --->
 
