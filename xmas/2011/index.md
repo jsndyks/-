@@ -29,7 +29,7 @@ Our Christmas photo pack for this year ...
 Each month we take a picture to see how the boys are growing up.<br/>
 A structured record of change, or not change as they get older!
 
-Fred and Iko are five already and have started school!
+Fred and Iko are five already!
 
 #### &raquo; IKO
 
