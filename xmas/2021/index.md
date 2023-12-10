@@ -43,7 +43,7 @@ Alma and Nell are nine, Fred and Iko are 16 in March and have GCSEs next year.
 <a href="./nell21-3600x2400.jpg"><img src="nell21-3600x2400.jpg" style="border:none"/></a>
 </div>
 
-#### &raquo; iko
+#### &raquo; IKO
 
 <div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
 <a href="./iko21-3600x2400.jpg"><img src="iko21-3600x2400.jpg" style="border:none"/></a>
