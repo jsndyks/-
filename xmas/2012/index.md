@@ -50,13 +50,13 @@ Alma and Nell arrived on 12/12/12.
 #### &raquo; NELL
 
 <div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="./nellAlma-v2-nell.jpg"><img src="nellAlma-v2-nell.jpg" style="border:none"/></a>
+<a href="./nellAlma-v2-nell.jpg"><img src="nellAlma-v2-nell.jpg" style="border:dashed #e0e0e0 1px"/></a>
 </div>
 
 #### &raquo; ALMA
 
 <div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="./nellAlma-v2-alma.jpg"><img src="nellAlma-v2-alma.jpg" style="border:none"/></a>
+<a href="./nellAlma-v2-alma.jpg"><img src="nellAlma-v2-alma.jpg" style="border:dashed #e0e0e0 1px"/></a>
 </div>
 
 ### Pics of The Year
