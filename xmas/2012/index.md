@@ -1,4 +1,4 @@
-head><title> xmas 2016 </title></head>
+<head><title> xmas 2012 </title></head>
 
 <link rel="stylesheet" type="text/css" href="https://jsndyks.github.io/web/css/pages.css"/>
 
@@ -20,76 +20,68 @@ head><title> xmas 2016 </title></head>
 
 </div>
 
-## xmas 2016
+## xmas 2012
 
 Our Christmas photo pack for this year ...
 
 ### Pic of The Month
 
-Each month we take a picture to see how the kids are growing up.<br/>
+Each month we take a picture to see how the boys are growing up.<br/>
 A structured record of change, or not change as they get older!
 
-Alma and Nell are four, Fred and Iko are now in double figures!
-
-#### &raquo; ALMA
-
-<div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="./alma16-3600x2400.jpg"><img src="alma16-3600x2400.jpg" style="border:none"/></a>
-</div>
-
-#### &raquo; NELL
-
-<div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="./nell16-3600x2400.jpg"><img src="nell16-3600x2400.jpg" style="border:none"/></a>
-</div>
+Fred and Iko are six!
 
 #### &raquo; IKO
 
 <div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="./iko16-3600x2400.jpg"><img src="iko16-3600x2400.jpg" style="border:none"/></a>
+<a href="./iko12-3600x2400.jpg"><img src="iko12-3600x2400.jpg" style="border:none"/></a>
 </div>
 
 #### &raquo; FRED
 
 <div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="./fred16-3600x2400.jpg"><img src="fred16-3600x2400.jpg" style="border:none"/></a>
+<a href="./fred12-3600x2400.jpg"><img src="fred12-3600x2400.jpg" style="border:none"/></a>
+</div>
+
+### Nell &amp; Alma
+
+Alma and Nell arrived on 12/12/12.
+
+#### &raquo; NELL
+
+<div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
+<a href="./nellAlma-v2-nell.jpg"><img src="nellAlma-v2-nell.jpg" style="border:none"/></a>
+</div>
+
+#### &raquo; ALMA
+
+<div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
+<a href="./nellAlma-v2-alma.jpg"><img src="nellAlma-v2-alma.jpg" style="border:none"/></a>
 </div>
 
 ### Pics of The Year
 
 And each year we try to find some pictures that show what we have been up to during the good times: family adventures in some of our favourite places.<br/>Holidays, weekend walks, bike rides, trips to nice places and sometimes just messing around in the garden.<br/>
-I take hundreds, thousands of photos, and try to limit it to _ten_ that vary a little in terms of the people, times and places that are captured ...
+I take hundreds, thousands of photos, and try to find _a few_ that vary a little in terms of the people, times and places that are captured ...
 
 <div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="xmas2016.allFour.08.jpg"><img src="xmas2016.allFour.08.jpg" style="border:dashed #e0e0e0 1px"/></a>
+<a href="xmas2012-fred.jpg"><img src="xmas2012-fred.jpg" style="border:dashed #e0e0e0 1px"/></a>
 </div>
 
 <div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="xmas2016.allFour.01.jpg"><img src="xmas2016.allFour.01.jpg" style="border:dashed #e0e0e0 1px"/></a>
+<a href="xmas2012-iko.jpg"><img src="xmas2012-iko.jpg" style="border:dashed #e0e0e0 1px"/></a>
+</div>
+
+### Olympics : London 2012
+
+We enjoyed track cycling, gymnastics, athletics. rowing, wrestling, volleyball, beach volleyball and road cycling at _The Olympics_.<br/>Emma and I were lucky enough to be right by the long jump track on _Super Saturday_ to see three British Golds ... 
+
+<div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
+<a href="olympic2012-card1.jpg"><img src="olympic2012-card1.jpg" style="border:dashed #e0e0e0 1px"/></a>
 </div>
 
 <div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="xmas2016.allFour.07.jpg"><img src="xmas2016.allFour.07.jpg" style="border:dashed #e0e0e0 1px"/></a>
-</div>
-
-<div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="xmas2016.allFour.02.jpg"><img src="xmas2016.allFour.02.jpg" style="border:dashed #e0e0e0 1px"/></a>
-</div>
-
-<div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="xmas2016.allFour.03.jpg"><img src="xmas2016.allFour.03.jpg" style="border:dashed #e0e0e0 1px"/></a>
-</div>
-
-<div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="xmas2016.allFour.04.jpg"><img src="xmas2016.allFour.04.jpg" style="border:dashed #e0e0e0 1px"/></a>
-</div>
-
-<div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="xmas2016.allFour.05.jpg"><img src="xmas2016.allFour.05.jpg" style="border:dashed #e0e0e0 1px"/></a>
-</div>
-
-<div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="xmas2016.allFour.06.jpg"><img src="xmas2016.allFour.06.jpg" style="border:dashed #e0e0e0 1px"/></a>
+<a href="olympic2012-card2.jpg"><img src="olympic2012-card2.jpg" style="border:dashed #e0e0e0 1px"/></a>
 </div>
 
 ---
@@ -97,7 +89,7 @@ I take hundreds, thousands of photos, and try to limit it to _ten_ that vary a l
 <div class="jdSig" markdown="1">
 
 Jason **DYKES**<br/>
-<span style="padding-left:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;_09/12/2023_<br/></span>
+<span style="padding-left:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;_10/12/2023_<br/></span>
 <!--- <br/>🐁 --->
 <!--- update --->
 

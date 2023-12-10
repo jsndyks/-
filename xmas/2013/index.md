@@ -1,4 +1,4 @@
-<head><title> xmas 2022 </title></head>
+<head><title> xmas 2013 </title></head>
 
 <link rel="stylesheet" type="text/css" href="https://jsndyks.github.io/web/css/pages.css"/>
 
@@ -20,7 +20,7 @@
 
 </div>
 
-## xmas 2022
+## xmas 2013
 
 Our Christmas photo pack for this year ...
 
@@ -29,83 +29,60 @@ Our Christmas photo pack for this year ...
 Each month we take a picture to see how the kids are growing up.<br/>
 A structured record of change, or not change as they get older!
 
-Alma and Nell are now into double figures, Fred and Brook are 16 and starting A-levels.
+Alma and Nell are a year old, Fred and Iko are seven!
 
 #### &raquo; ALMA
 
 <div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="./alma22-3600x2400.jpg"><img src="alma22-3600x2400.jpg" style="border:none"/></a>
+<a href="./alma13-3600x2400.jpg"><img src="alma13-3600x2400.jpg" style="border:none"/></a>
 </div>
 
 #### &raquo; NELL
 
 <div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="./nell22-3600x2400.jpg"><img src="nell22-3600x2400.jpg" style="border:none"/></a>
+<a href="./nell13-3600x2400.jpg"><img src="nell13-3600x2400.jpg" style="border:none"/></a>
 </div>
 
-#### &raquo; BROOK
+#### &raquo; IKO
 
 <div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="./brook22-3600x2400.jpg"><img src="brook22-3600x2400.jpg" style="border:none"/></a>
+<a href="./iko13-3600x2400.jpg"><img src="iko13-3600x2400.jpg" style="border:none"/></a>
 </div>
 
 #### &raquo; FRED
 
 <div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="./fred22-3600x2400.jpg"><img src="fred22-3600x2400.jpg" style="border:none"/></a>
+<a href="./fred13-3600x2400.jpg"><img src="fred13-3600x2400.jpg" style="border:none"/></a>
 </div>
 
 ### Pics of The Year
 
 And each year we try to find some pictures that show what we have been up to during the good times: family adventures in some of our favourite places.<br/>Holidays, weekend walks, bike rides, trips to nice places and sometimes just messing around in the garden.<br/>
-I take hundreds, thousands of photos, and try to limit it to _ten_ that vary a little in terms of the people, times and places  that are captured ...
+I take hundreds, thousands of photos, and try to find _a few_ that vary a little in terms of the people, times and places that are captured ...
 
 <div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="xmas2022.allFour.alma.jpg"><img src="xmas2022.allFour.alma.jpg" style="border:dashed #e0e0e0 1px"/></a>
+<a href="xmas2013-iko-6x4.jpg"><img src="xmas2013-iko-6x4.jpg" style="border:dashed #e0e0e0 1px"/></a>
 </div>
 
 <div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="xmas2022.allFour.brook.jpg"><img src="xmas2022.allFour.brook.jpg" style="border:dashed #e0e0e0 1px"/></a>
+<a href="xmas2013-fred-6x4.jpg"><img src="xmas2013-fred-6x4.jpg" style="border:dashed #e0e0e0 1px"/></a>
 </div>
 
 <div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="xmas2022.allFour.fred.jpg"><img src="xmas2022.allFour.fred.jpg" style="border:dashed #e0e0e0 1px"/></a>
+<a href="xmas2013-alma-6x4.jpg"><img src="xmas2013-alma-6x4.jpg" style="border:dashed #e0e0e0 1px"/></a>
 </div>
 
 <div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="xmas2022.allFour.nell.jpg"><img src="xmas2022.allFour.nell.jpg" style="border:dashed #e0e0e0 1px"/></a>
+<a href="xmas2013-nell-6x4.jpg"><img src="xmas2013-nell-6x4.jpg" style="border:dashed #e0e0e0 1px"/></a>
 </div>
 
-<div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="xmas2022.allFour.borthygest.jpg"><img src="xmas2022.allFour.borthygest.jpg" style="border:dashed #e0e0e0 1px"/></a>
-</div>
-
-<div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="xmas2022.allFour.cricket.jpg"><img src="xmas2022.allFour.cricket.jpg" style="border:dashed #e0e0e0 1px"/></a>
-</div>
-
-<div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="xmas2022.allFour.fredAndBrook.jpg"><img src="xmas2022.allFour.fredAndBrook.jpg" style="border:dashed #e0e0e0 1px"/></a>
-</div>
-
-<div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="xmas2022.allFour.birmingham.jpg"><img src="xmas2022.allFour.birmingham.jpg" style="border:dashed #e0e0e0 1px"/></a>
-</div>
-
-<div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="xmas2022.allFour.kayaks.jpg"><img src="xmas2022.allFour.kayaks.jpg" style="border:dashed #e0e0e0 1px"/></a>
-</div>
-
-<div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="xmas2022.allFour.nornour.jpg"><img src="xmas2022.allFour.nornour.jpg" style="border:dashed #e0e0e0 1px"/></a>
-</div>
 
 ---
 
 <div class="jdSig" markdown="1">
 
 Jason **DYKES**<br/>
-<span style="padding-left:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;_09/12/2023_<br/></span>
+<span style="padding-left:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;_10/12/2023_<br/></span>
 <!--- <br/>🐁 --->
 <!--- update --->
 
