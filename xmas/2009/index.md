@@ -34,13 +34,13 @@ Fred and Iko are now three.
 #### &raquo; IKO
 
 <div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="./iko10-3600x2400.jpg"><img src="iko10-3600x2400.jpg" style="border:none"/></a>
+<a href="./iko09-3600x2400.jpg"><img src="iko09-3600x2400.jpg" style="border:none"/></a>
 </div>
 
 #### &raquo; FRED
 
 <div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="./fred10-3600x2400.jpg"><img src="fred10-3600x2400.jpg" style="border:none"/></a>
+<a href="./fred09-3600x2400.jpg"><img src="fred09-3600x2400.jpg" style="border:none"/></a>
 </div>
 
 <!---
