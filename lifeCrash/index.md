@@ -43,14 +43,14 @@ I know my skin well. I have always been fussy about my moles and blemishes as my
 * My **Dad**, _Gordon_, was diagnosed with widespread cancer at 52 in the 90s just as I was starting my PhD in Leicester. He was dead within a very difficult 5 months of miserable decline. Tough on him, tough on us. Tough, tough, tough.
 
 Anyhow, the Leicester dermatologists suspected that my mole was skin cancer, so they cut it off my calf and I recuperated with my leg up for a couple of weeks in the _Isles of Scilly_: "_no swimming_".
-The histology confirmed a melanoma and while there is some good news in terms of its excision, with good margins, I have required more surgery to remove and rearrange more skin, and more tests and time to rest and recover and work out what's going on.<br/>
-That’s the **Life Crash** really. Because it stops you suddenly, hits you with shock, hurts awfully, captures your focus and you just feel as though you have slipped into a parallel universe that you don’t want to be in and can never re-emerge from … which is where the skateboarding metaphor breaks down completely I suppose. Until you try to pick yourself up again and get back on the board and scoot forward. Cautiously. Slowly. Hopefully. And the consultant is very hopeful.
+The histology confirmed a melanoma and while there is some good news in terms of its excision, with good margins, I have required more surgery to remove and rearrange more skin, and more tests and time to rest and recover and as we learn more it looks like I'll need more treatment as we work out what's going on and where this is heading.<br/>
+That’s the **Life Crash** really. Because it stops you suddenly, hits you with shock, hurts awfully, captures your focus and you just feel as though you have slipped into a parallel universe that you don’t want to be in and can never re-emerge from … which is where the skateboarding metaphor breaks down completely I suppose. Until you try to pick yourself up again and get back on the board and scoot forward. Cautiously. Slowly. Hopefully. And the consultant is very hopeful. They want to help me _Bounce Back_ and to focus on recovery.
 
 It helps me to think this way, to write this way and use the notion of **Life Crash** to briefly frame all that is going on. And explain, and share.
 
 In jotting this down, I wonder why people seem so frequently, so predictably, to write about and broadcast this kind of stuff? I think it is about control. Framing the thing that you don’t want to happen, the thing that threatens you, that scares you, that defines you in many ways, gives you a means of taming it a little … at least psychologically, at least temporarily.<br/> 
 <!--- Hence my **Life Crash**.<br/> --->
-_Making it physical_ helps me understand how to respond to it - as, believe me, the psychological side of things is significant, debilitating, dynamic and complex. And I am doing my best to work with the amazing scientists, doctors, surgeons and psychotherapists to get back on my feet - physically and mentally, literally and figuratively.<br/>
+_Making it physical_ helps me understand how to respond to it - as, believe me, the psychological side of things is significant, debilitating, dynamic and complex. And I am doing my best to work with the amazing scientists, doctors, surgeons and psychotherapists to get back on my feet - physically and mentally, literally and figuratively: to _Bounce Back_.<br/>
 _Cartoonifying the whole thing_, and even sharing some empathy with the poor dude who hit the bin in Barcelona, helps a bit too.<br/>There’s not much more in life than love and laughter. Well, pain and fear I guess too. There must be some kind of fundamental relationship there between those four.   
 
 Also, it helps me focus on some of the positives. There are some really good potential outcomes, some promising signs, and excellent treatments are available and emerging, and I am putting all efforts into trying to do as well as my super-inspiring Mum, who at 82 has had half a century of fulfilling life post-treatment. But of course there are some grim places where this could go too and you can’t help thinking about those, assessing and addressing your mortality and feeling as though nothing will ever be quite the same. Maybe this is life threatening. Maybe it is life shortening. Maybe it is life limiting. Maybe it is life altering. Maybe not. Maybe I’ll fall off my bike next time I am out on the road or trip down the stairs in my new post-op baggy merino pyjamas and nobody will have to worry about any of this at all. But sunrises do seem a little sharper that they did right now. Cuddles with the kids are a little longer, a little more intense.
@@ -65,13 +65,16 @@ Love, laughter, fear, pain and purchases, right?!
 
 ‘**Life Crash**’!
 
+And a lot of people helping me to _[Bounce Back](https://www.amazon.co.uk/Bouncing-Partridge-Notebook-Journal-Hardcover/dp/B0BQWR2X2P/ref=sr_1_5)_. 
+
 <div class="jdSig" markdown="1">
 
 Jason **DYKES**<br/>
 <span style="padding-left:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;_14/11/2023_<br/></span>
 <span style="padding-left:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;_16/11/2023_<br/></span>
 <span style="padding-left:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;_03/12/2023_<br/></span>
-<span style="padding-left:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;_08/12/2023_</span>
+<span style="padding-left:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;_08/12/2023_<br/></span>
+<span style="padding-left:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;_13/12/2023_</span>
 <!--- <br/>🐁 --->
 <!--- update --->
 
