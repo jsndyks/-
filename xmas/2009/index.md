@@ -1,4 +1,4 @@
-<head><title> xmas 2013 </title></head>
+<head><title> xmas 2009 </title></head>
 
 <link rel="stylesheet" type="text/css" href="https://jsndyks.github.io/web/css/pages.css"/>
 
@@ -20,40 +20,30 @@
 &nbsp;&nbsp;&laquo;&nbsp;&nbsp; [2010](../2010) &nbsp;&nbsp;&laquo;&nbsp;&nbsp; [2009](../2009)
 </div>
 
-## xmas 2013
+## xmas 2009
 
 Our Christmas photo pack for this year ...
 
 ### Pic of The Month
 
-Each month we take a picture to see how the kids are growing up.<br/>
+Each month we take a picture to see how the boys are growing up.<br/>
 A structured record of change, or not change as they get older!
 
-Alma and Nell are a year old, Fred and Iko are seven!
-
-#### &raquo; ALMA
-
-<div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="./alma13-3600x2400.jpg"><img src="alma13-3600x2400.jpg" style="border:none"/></a>
-</div>
-
-#### &raquo; NELL
-
-<div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="./nell13-3600x2400.jpg"><img src="nell13-3600x2400.jpg" style="border:none"/></a>
-</div>
+Fred and Iko are now three.
 
 #### &raquo; IKO
 
 <div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="./iko13-3600x2400.jpg"><img src="iko13-3600x2400.jpg" style="border:none"/></a>
+<a href="./iko10-3600x2400.jpg"><img src="iko10-3600x2400.jpg" style="border:none"/></a>
 </div>
 
 #### &raquo; FRED
 
 <div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="./fred13-3600x2400.jpg"><img src="fred13-3600x2400.jpg" style="border:none"/></a>
+<a href="./fred10-3600x2400.jpg"><img src="fred10-3600x2400.jpg" style="border:none"/></a>
 </div>
+
+<!---
 
 ### Pics of The Year
 
@@ -61,28 +51,21 @@ And each year we try to find some pictures that show what we have been up to dur
 I take hundreds, thousands of photos, and try to find _a few_ that vary a little in terms of the people, times and places that are captured ...
 
 <div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="xmas2013-iko-6x4.jpg"><img src="xmas2013-iko-6x4.jpg" style="border:dashed #e0e0e0 1px"/></a>
+<a href="xmas2012-fred.jpg"><img src="xmas2012-fred.jpg" style="border:dashed #e0e0e0 1px"/></a>
 </div>
 
 <div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="xmas2013-fred-6x4.jpg"><img src="xmas2013-fred-6x4.jpg" style="border:dashed #e0e0e0 1px"/></a>
+<a href="xmas2012-iko.jpg"><img src="xmas2012-iko.jpg" style="border:dashed #e0e0e0 1px"/></a>
 </div>
 
-<div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="xmas2013-alma-6x4.jpg"><img src="xmas2013-alma-6x4.jpg" style="border:dashed #e0e0e0 1px"/></a>
-</div>
-
-<div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
-<a href="xmas2013-nell-6x4.jpg"><img src="xmas2013-nell-6x4.jpg" style="border:dashed #e0e0e0 1px"/></a>
-</div>
-
+--->
 
 ---
 
 <div class="jdSig" markdown="1">
 
 Jason **DYKES**<br/>
-<span style="padding-left:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;_10/12/2023_<br/></span>
+<span style="padding-left:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;_13/12/2023_<br/></span>
 <!--- <br/>🐁 --->
 <!--- update --->
 
