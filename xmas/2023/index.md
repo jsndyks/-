@@ -101,12 +101,21 @@ I take hundreds, thousands of photos, and try to limit it to _ten_ that vary a l
 <a href="xmas2023.familyRoaches.jpg"><img src="xmas2023.familyRoaches.jpg" style="border:dashed #e0e0e0 1px"/></a>
 </div>
 
+### Cards
+
+Some time soon after the Summer Holidays the girls get asked to make charity _Christmas Cards_ at school!<br/>
+Here goes!
+
+<div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
+<a href="xmas2023.card.jpg"><img src="xmas2023.card.jpg" style="border:dashed #e0e0e0 1px"/></a>
+</div>
+
 ---
 
 <div class="jdSig" markdown="1">
 
 Jason **DYKES**<br/>
-<span style="padding-left:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;_09/12/2023_<br/></span>
+<span style="padding-left:0.5em">&nbsp;&nbsp;&nbsp;&nbsp;_22/12/2023_<br/></span>
 <!--- <br/>🐁 --->
 <!--- update --->
 

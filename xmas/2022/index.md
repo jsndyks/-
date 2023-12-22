@@ -100,6 +100,15 @@ I take hundreds, thousands of photos, and try to limit it to _ten_ that vary a l
 <a href="xmas2022.allFour.nornour.jpg"><img src="xmas2022.allFour.nornour.jpg" style="border:dashed #e0e0e0 1px"/></a>
 </div>
 
+### Cards
+
+Some time in early September the girls get asked to make charity _Christmas Cards_ at school!<br/>
+Here goes!
+
+<div class="topTitle" width="80%" style="margin-top:0.5em; margin-bottom:0.5em">
+<a href="xmas2022.card.jpg"><img src="xmas2022.card.jpg" style="border:dashed #e0e0e0 1px"/></a>
+</div>
+
 ---
 
 <div class="jdSig" markdown="1">
